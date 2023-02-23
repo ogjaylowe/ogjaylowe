@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Lowe</h1>
-<h3 align="center">Passionate Software Engineer and Instructor with a Penchant for Deep Learning</h3>
+<h3 align="center">Enterprise computer vision solutions engineer. If you need computer vision, you need me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogjaylowe&label=Profile%20views&color=0e75b6&style=flat" alt="ogjaylowe" /> </p>
 
