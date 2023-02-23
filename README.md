@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogjaylowe&label=Profile%20views&color=0e75b6&style=flat" alt="ogjaylowe" /> </p>
 
-- 🔭 I’m currently working on [the DeepPlastic object detection model](https://github.com/gautamtata/DeepPlastic)
+- 🤖 I'm building the future of computer vision dev tools at [Roboflow](https://roboflow.com/)
 
-- 🌱 I’m currently learning **PyTorch, TensorFlow, and Keras**
+- 🔭 I was the lead research engineer for [the DeepPlastic object detection model](https://arxiv.org/abs/2105.01882)
 
-- 👨‍💻 All of my projects are available at [TBA](TBA)
-
-- 📝 I regularly write articles on [TBA](TBA)
+- 📝 I regularly write articles for both my [personal blog](https://ogjaylowe.com/) and [Roboflow's](https://blog.roboflow.com/author/jay/)
 
 - 📫 How to reach me **ogjaylowe@gmail.com**
 
